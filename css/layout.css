@@ -23,5 +23,34 @@
 }
 
 /* Posititoning Classes */
+.left-shoes{
+	float:left;
+	width:66%;
+	
+	margin-bottom:20px;
+}
+.right-shoes{
+	float:right;
+	width:32%;
+	margin-left:2%;
+	margin-bottom:20px;
+	
+}
 
-
+.shoes{
+	float:left;
+	width:32%;
+	margin-right:2%;
+	
+}
+.shoes:last-of-type{
+	margin-right:0;
+	
+}
+.details {
+	
+	float:left;
+	width:33.333%;
+	padding:25px ;
+	
+}
